@@ -1,0 +1,67 @@
+{
+  "employee": [
+    {
+      "name": "pallav sharma",
+      "age": "22",
+      "address": "B-534 Azad nagar",
+      "department": "it",
+      "salary": "123322",
+      "martialStatus": true,
+      "id": 1
+    },
+    {
+      "name": "Puneet Sharma",
+      "age": "33",
+      "address": "B-17 Pur Road Bhilwara",
+      "department": "textile",
+      "salary": "11313",
+      "martialStatus": false,
+      "id": 2
+    },
+    {
+      "name": "pallav sharma",
+      "age": "",
+      "address": "B-534 Azad nagar",
+      "department": "",
+      "salary": "",
+      "martialStatus": false,
+      "id": 3
+    },
+    {
+      "name": "Puneet Sharma",
+      "age": "",
+      "address": "B-17 Pur Road Bhilwara",
+      "department": "",
+      "salary": "",
+      "martialStatus": false,
+      "id": 4
+    },
+    {
+      "name": "pallav sharma",
+      "age": "",
+      "address": "B-534 Azad nagar",
+      "department": "",
+      "salary": "75",
+      "martialStatus": true,
+      "id": 5
+    },
+    {
+      "name": "pallav sharma",
+      "age": "",
+      "address": "B-534 Azad nagar",
+      "department": "",
+      "salary": "",
+      "martialStatus": false,
+      "id": 6
+    },
+    {
+      "name": "suraj",
+      "age": "23",
+      "address": "B-534 Azad nagar",
+      "department": "",
+      "salary": "123322",
+      "martialStatus": true,
+      "id": 7
+    }
+  ]
+}
