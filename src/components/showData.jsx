@@ -17,11 +17,10 @@ const ShowData = ({ allEmployeeData,handlePage,page,lastPage }) => {
             </thead>
             <tbody>
                 {console.log(allEmployeeData)}
-                {allEmployeeData.forEach((data) => {
+                {allEmployeeData.map((data) => {
                    return (
                     
                        <tr key={data.id}>
-                           <h1>"pallav"</h1>
                            <td>{data.id}</td>
                            <td>{data.name}</td>
                            <td>{data.age}</td>
